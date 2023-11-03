@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quizify/static/css/main.9ac8aa27.css",
+    "main.js": "/Quizify/static/js/main.089883a7.js",
+    "index.html": "/Quizify/index.html",
+    "main.9ac8aa27.css.map": "/Quizify/static/css/main.9ac8aa27.css.map",
+    "main.089883a7.js.map": "/Quizify/static/js/main.089883a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ac8aa27.css",
+    "static/js/main.089883a7.js"
+  ]
+}
